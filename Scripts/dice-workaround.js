@@ -1,1 +1,1 @@
-alert("Dice wants to roll now");
+prompt("Dice wants to roll now");
